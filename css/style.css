@@ -43,3 +43,7 @@ body {
     background: #0678e3;
     color: #fff;
   }
+  .back-to-top.active {
+    visibility: visible;
+    opacity: 1;
+  }
